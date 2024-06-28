@@ -38,7 +38,7 @@ jobs:
     # to have the requirements in a file
     - name: Install dependencies
       run: |
-        pip install -r Jbook-env.yml
+        pip install -r jbook-env.yml
 #        pip install "git+https://github.com/folsomcp/LSDpy"
 #        pip install "git+https://github.com/folsomcp/SpecpolFlow"
 
